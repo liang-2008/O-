@@ -14,4 +14,5 @@ Windows终极版 文件夹是原码、音频以及打包成.exe时产生的文�
 windows_main.exe 是打包好的，下载下来可以直接用
 # 打包
 在文件夹中打开powershell,输入   
-```pyinstaller --onefile --noconsole --add-data "o泡果奶广告曲.wav;." windows_main.py```
+```pyinstaller --onefile --noconsole --add-data "o泡果奶广告曲.wav;." windows_main.py
+```
