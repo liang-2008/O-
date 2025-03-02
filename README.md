@@ -11,7 +11,7 @@
 # 程序
 Windows终极版 文件夹是原码和音频
 
-windows_main.exe 是打包好的，下载下来可以直接用
+Releases里windows_main.exe 是打包好的，下载下来可以直接用
 # 打包
 #### 在文件夹中打开powershell,输入:
 ```
